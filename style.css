@@ -19,9 +19,11 @@ h1:hover{
 }
 td{
     background-color: white;
+    
 }
 td:hover{
     background-color: black;
+    color: white;
 }
 p{
     color: black;
